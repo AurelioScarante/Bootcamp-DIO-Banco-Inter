@@ -1,0 +1,7 @@
+PROJETO GIT E GITHUB
+
+- Criando meu primeiro repositório
+para o bootcamp da DIO-Inter.
+
+O desafio do projeto é criar um repositório local e um remoto
+para anotações do curso, com os conhecimentos adquiridos no curso de git.
